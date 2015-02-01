@@ -31,6 +31,8 @@ Play the game by clicking in the icon 'FifteenFX'. Move the tiles with swipe ges
 
 It works both in portrait and in landscape orientations.
 
+![Snapshot of the app](https://cloud.githubusercontent.com/assets/2043230/5993273/f74cf1ee-aa4a-11e4-95a5-be8f2ba1191c.png)
+
 **Disclaimer**
 
 This is an initial version created to test a JavaFX application on Android devices using JavaFXPorts, so it may contain some bugs, that should be reported creating issues. Pull requests or feature requests are welcome. 
